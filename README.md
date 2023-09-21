@@ -1,1 +1,2 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesemi&count_private=true&theme=tokyonight&show_icons=true)
+![](https://raw.githubusercontent.com/mesemi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mesemi/github-stats/master/generated/overview.svg#gh-light-mode-only)
